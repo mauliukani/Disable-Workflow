@@ -6,7 +6,7 @@ on:
 
 jobs:
   disable:
-    runs-on: ubuntu-Letest
+    runs-on: ubuntu-latest
     
     steps:
       - name: Mauli
